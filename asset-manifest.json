@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/JMoreland23/pokedex.git/static/css/main.be3c1336.css",
-    "main.js": "/JMoreland23/pokedex.git/static/js/main.20e89e6d.js",
-    "index.html": "/JMoreland23/pokedex.git/index.html",
-    "main.be3c1336.css.map": "/JMoreland23/pokedex.git/static/css/main.be3c1336.css.map",
-    "main.20e89e6d.js.map": "/JMoreland23/pokedex.git/static/js/main.20e89e6d.js.map"
+    "main.css": "/pokedex/static/css/main.be3c1336.css",
+    "main.js": "/pokedex/static/js/main.20e89e6d.js",
+    "index.html": "/pokedex/index.html",
+    "main.be3c1336.css.map": "/pokedex/static/css/main.be3c1336.css.map",
+    "main.20e89e6d.js.map": "/pokedex/static/js/main.20e89e6d.js.map"
   },
   "entrypoints": [
     "static/css/main.be3c1336.css",
